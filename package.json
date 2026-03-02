@@ -1,0 +1,5 @@
+{
+  "name": "wfh-funnel-functions",
+  "version": "1.0.0",
+  "description": "Netlify function to connect GitHub squeeze page to Systeme.io"
+}
